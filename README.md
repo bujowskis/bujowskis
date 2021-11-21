@@ -1,4 +1,4 @@
-### My name is Szymon Bujowski. Get to know me here:
+## My name is Szymon Bujowski. Get to know me here:
 - I'm currently studying Artificial Intelligence at Poznań University of Technology, Poland (Bachelor degree)
 - Programming languages I use(d) the most:
     - C
@@ -10,7 +10,7 @@
     - Arduino
     - Machine Engineering
 
-Want to collaborate on something interesting? Feel free to contact me!
+## Want to collaborate on something interesting? Feel free to contact me!
 - s.bujowski@gmail.com
 - https://www.linkedin.com/in/szymon-bujowski/
 
