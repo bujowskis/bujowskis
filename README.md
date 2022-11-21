@@ -47,7 +47,7 @@ Unless there is a ***specialized/designated tool*** for the type of task I'm wor
 
 # Bio
 
-## I'm there for you
+## I'm here for you
 This motto is the essence of what I, my life, my goals, and virtually anything I do is all about.
 
 From my analysis and what people tell me, I'm a textbook case of an `Otherish Giver`. Read [Give and Take by Adam Grant](https://adamgrant.net/book/give-and-take/). Understand the concepts, understand me and my actions.
