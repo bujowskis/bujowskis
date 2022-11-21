@@ -55,7 +55,7 @@ From my analysis and what people tell me, I'm a textbook case of an `Otherish Gi
 I lead with mind and logic, although I don't consider emotions useless and irrelevant. Emotions help us understand each other and ourselves and play a crucial role in our lives. Though, it's up to our mind to analyze and decide how to handle that information.
 
 On top of that, I'm transparent, open and honest. I strongly believe the world would be much better if we were clear about our needs, intentions, etc. I will share it and tell you things, as long as it's not *truly* sensitive information. I am active on
-- [LinkedIn](https://www.linkedin.com/in/szymon-bujowski/) - which I am using as a personal blog to update you on my life, my work, and keep my promise about being open and transparent
+- [LinkedIn](https://www.linkedin.com/in/bujowskis/) - which I am using as a personal blog to update you on my life, my work, and keep my promise about being open and transparent
 - [GitHub](https://github.com/bujowskis) - which I am using not only for programming, but also progress and organization - GitHub is not *"just a tool"*, ***GitHub is a lifestyle***
 
 ## My drive and purpose
