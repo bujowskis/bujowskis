@@ -68,7 +68,10 @@ I am driven to do, and strive doing whatever it takes to pursue these *(abstract
 
 On a funny note, to be precise, it's `255` months *(a perfectly round number)* and `13` days *(to make things more optimistic)*.
 
-## Connect with me
+## Projects, Interests
+As a result of my drive and life purpose, my interests are very varied. The main idea is using the acquired knowledge and skills to pursue them, make the world and people's lives a little better, one step at a time. It results in multiple projects of varying background, spanning different domains. Follow me to get the updates on what's currently in the making!
+
+## Contact me
 Want to collaborate/talk? Let's get in touch. I'll try to answer as soon as possible.
 
 <a href="https://www.linkedin.com/in/bujowskis/">
