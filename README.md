@@ -58,8 +58,8 @@ On top of that, I'm transparent, open and honest. I strongly believe the world w
 - [LinkedIn](https://www.linkedin.com/in/bujowskis/) - which I am using as a personal blog to update you on my life, my work, and keep my promise about being open and transparent
 - [GitHub](https://github.com/bujowskis) - which I am using not only for programming, but also progress and organization - GitHub is not *"just a tool"*, ***GitHub is a lifestyle***
 
-## My drive and purpose
-On November 6th, 2022, after over 21 years of my life, I finally figured out my life purpose:
+## My life's purpose
+On November 6th, 2022, after over 21 years of my life, I finally figured out my life's purpose:
 - **Family and Friends** - improve and bring value in their life
 - **Creating value, improving *everyone's* lives** - as individuals and as a collective
 - **Health and Happiness** *(although they are largely a byproduct of pursuing the above)*
