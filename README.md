@@ -66,7 +66,7 @@ On November 6th, 2022, after over 21 years of my life, I finally figured out my 
 
 I am driven to do, and strive doing whatever it takes to pursue these *(abstract)* goals by taking concrete actions.
 
-On a funny note, to be precise, it's `255` months *(a perfectly round number)* and `13` days *(to make things more optimistic)*.
+On a funny note, to be precise, it's `255` months. A perfectly round number.
 
 ## Projects, Interests
 As a result of my drive and life purpose, my interests are very varied. The main idea is using the acquired knowledge and skills to pursue them, make the world and people's lives a little better, one step at a time. It results in multiple projects of varying background, spanning different domains. Follow me to get the updates on what's currently in the making!
