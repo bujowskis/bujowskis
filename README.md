@@ -10,10 +10,10 @@ My life's goal is to **create value** and **improve our lives** - that's why I p
 
 My focus:
 - `Software Engineering`, `Software Development`, `Data` and `Data Analysis`, `AI` (mainly `C`/`C++`, `Python`)
-- `versatility`, `interdisciplinarity`, `problem solving` (my ideas span multiple domains, I'm eager to learn and try out things)
-- `project management`, `business management`, `communication` and `soft skills` (to enable the best progress in the projects I pursue)
+- `versatility`, `interdisciplinarity`, `problem-solving` (my ideas span multiple domains, and I'm eager to learn and try out things)
+- `project management`, `business management`, `communication`, and `soft skills` (to enable the best progress in the projects I pursue)
 
-I create content about `#honesty`, `#projects`, `#productivity` and `#selfimprovement`. Be sure to check my [LinkedIn](https://www.linkedin.com/in/bujowskis/) if you find that interesting.
+I create content about `#honesty`, `#projects`, `#productivity`, and `#selfimprovement`. Be sure to check my [LinkedIn](https://www.linkedin.com/in/bujowskis/) if you find that interesting.
 
 You can read my [Bio](https://github.com/bujowskis/bujowskis/blob/main/bio.md) if you'd like to get to know me more.
 
