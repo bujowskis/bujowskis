@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bujowskis&hide=css,scss,html,jupyter%20notebook&theme=darcula&count-private=true&layout=compact)
 
 ## Overview
-My life's goal is to **create value** and **improve our lives** - that's why I pursue various kinds of projects, be it my own or someone else's.
+My life's goal is to **create good value** and **improve our lives** - that's why I pursue various kinds of projects, be it my own or someone else's.
 
 My focus:
 - `Software Engineering`, `Software Development`, `Data` and `Data Analysis`, `AI` (mainly `C`/`C++`, `Python`)
