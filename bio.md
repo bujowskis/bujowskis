@@ -31,4 +31,6 @@ Want to collaborate/talk? Let's get in touch. I'll try to answer as soon as poss
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
-I'm here for you
+- [LinkedIn](https://www.linkedin.com/in/bujowskis/)
+
+***I'm here for you***
