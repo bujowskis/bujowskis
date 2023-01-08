@@ -1,8 +1,6 @@
 # Programming
 
 ## Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bujowskis&theme=darcula"/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bujowskis&hide=css,scss,html,jupyter%20notebook&theme=darcula&count-private=true&layout=compact)
 
 ## Overview
