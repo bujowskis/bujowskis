@@ -6,7 +6,7 @@
 Note that some of my contributions are distributed across separate work accounts:
 - https://github.com/SzymonBujowski-TomTom
 
-## Overview
+## About
 My life's goal is to **create good value** and **improve our lives** - that's why I pursue various kinds of projects, be it my own or someone else's.
 
 My focus:
