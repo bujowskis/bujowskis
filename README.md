@@ -10,7 +10,7 @@ Note that some of my contributions are distributed across separate work accounts
 My life's goal is to **create good value** and **improve our lives** - that's why I pursue various kinds of projects, be it my own or someone else's.
 
 My focus:
-- `Software Engineering`, `Software Development`, `Data` and `Data Analysis`, `AI` (mainly `C`/`C++`, `Python`)
+- `Software Engineering`, `Software Development`, `Data` and `Data Analysis`, `AI` (mainly `Java`, `C`/`C++`, `Python`)
 - `versatility`, `interdisciplinarity`, `problem-solving` (my ideas span multiple domains, and I'm eager to learn and try out things)
 - `project management`, `business management`, `communication`, and `soft skills` (to enable the best progress in the projects I pursue)
 
