@@ -3,6 +3,9 @@
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bujowskis&hide=css,scss,html,jupyter%20notebook&theme=darcula&count-private=true&layout=compact)
 
+Note that some of my contributions are distributed across separate work accounts:
+- https://github.com/SzymonBujowski-TomTom
+
 ## Overview
 My life's goal is to **create good value** and **improve our lives** - that's why I pursue various kinds of projects, be it my own or someone else's.
 
